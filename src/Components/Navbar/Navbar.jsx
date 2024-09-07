@@ -5,6 +5,11 @@ function Navbar(){
     return(
 
         <div className='main-container'>
+
+
+            <h1>hello aniket</h1>
+
+
             <nav>
                 <div>
                     <img src="" alt="" />
