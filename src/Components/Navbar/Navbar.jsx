@@ -7,7 +7,7 @@ function Navbar(){
         <div className='main-container'>
 
 
-            <h1>hello aniket</h1>
+            <h1>hello World Aniket Jankar</h1>
 
 
             <nav>
